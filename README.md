@@ -19,7 +19,7 @@ In MySQL Wizard, the Server/Data Import command will can the database using your
 ## Grading Criteria Goals
 
 ### Use Copilot to generate basic SQL queries for retrieving and filtering data
-Over 20 stored procedures were created by Copilot: See screenshot:  DB Notebook (My Connection) - EFCoreModelApp3 - Visual Studio Code	
+Over 20 stored procedures were created by Copilot: See screenshot:  [https://gyazo.com/31a4d45042a3c45d0298561fc0d78e4f](https://gyazo.com/31a4d45042a3c45d0298561fc0d78e4f)	
 
 ### Use Copilot to generate complex SQL queries, including joins, nested queries and aggregations
 
